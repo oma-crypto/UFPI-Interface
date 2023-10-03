@@ -26,8 +26,8 @@ You must add the DirectServo and the SmartServo libraries into the Sunrise.Workb
 
 
 This link displays a video for the UFPI interface that designed and implemented in this thesis and provides instructions on its usage:
-https://www.youtube.com/playlist?list=PLLSMsWnpFE9LdQpu1xGOLB2d6ZfDBwSC2
 
+https://www.youtube.com/playlist?list=PLLSMsWnpFE9LdQpu1xGOLB2d6ZfDBwSC2
 (3) UFPI Interface - YouTube
 
 
