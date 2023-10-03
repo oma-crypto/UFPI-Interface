@@ -12,3 +12,29 @@ The hand guiding motion feature is also used to achieve more accurate positionin
 
 
 You must add the DirectServo and the SmartServo libraries into the Sunrise.Workbench environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+This link displays a video for the UFPI interface that designed and implemented in this thesis and provides instructions on its usage:
+https://www.youtube.com/playlist?list=PLLSMsWnpFE9LdQpu1xGOLB2d6ZfDBwSC2
+(3) UFPI Interface - YouTube
+
+
+
+
+
+
+
+
+This link displays a PDF file for the thesis of UFPI interface on researchgate web where provides instructions on its usage:
+https://www.researchgate.net/publication/374349902_Design_and_Implementation_of_a_User-Friendly_Platform_Interface_UFPI_for_Controlling_the_KUKA_LBR_iiwa_Robot_Via_Real-Time_Hand_Guiding
